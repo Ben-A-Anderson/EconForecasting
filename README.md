@@ -1,2 +1,2 @@
 # EconForecasting
-Various economic forecasting modes
+Various economic forecasting models
